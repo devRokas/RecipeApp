@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj",
+      "projectUniqueName": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj",
       "projectName": "Contracts",
-      "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj",
+      "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj",
       "packagesPath": "/Users/rokasdambrauskas/.nuget/packages/",
-      "outputPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Contracts/obj/",
+      "outputPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Contracts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rokasdambrauskas/.nuget/NuGet/NuGet.Config"

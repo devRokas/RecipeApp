@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iNA2Q8H7ROL3n1mnj9ljSDaziPZKboU67aybmaaex8kRARa3jGNoWefhbTl5oSN9hEUj0J9Kp9fGxsAj67T2Aw==",
+  "dgSpecHash": "GUtrZeCS0v6HcgzWudzYCts/mKsUlJrCuCIi8LA8xO5J6xEGwMPuLFd6wPU1bLuVFg7dLfRVO2O7T46WYwiuAg==",
   "success": true,
-  "projectFilePath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/RecipeApp/RecipeApp.csproj",
+  "projectFilePath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/RecipeApp/RecipeApp.csproj",
   "expectedPackageFiles": [
     "/Users/rokasdambrauskas/.nuget/packages/bouncycastle.netcore/1.8.5/bouncycastle.netcore.1.8.5.nupkg.sha512",
     "/Users/rokasdambrauskas/.nuget/packages/dapper/2.0.90/dapper.2.0.90.nupkg.sha512",

@@ -1005,11 +1005,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/RecipeApp/RecipeApp.csproj",
+      "projectUniqueName": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/RecipeApp/RecipeApp.csproj",
       "projectName": "RecipeApp",
-      "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/RecipeApp/RecipeApp.csproj",
+      "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/RecipeApp/RecipeApp.csproj",
       "packagesPath": "/Users/rokasdambrauskas/.nuget/packages/",
-      "outputPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/RecipeApp/obj/",
+      "outputPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/RecipeApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rokasdambrauskas/.nuget/NuGet/NuGet.Config"
@@ -1024,14 +1024,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj": {
-              "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj"
+            "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj": {
+              "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj"
             },
-            "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Domain/Domain.csproj": {
-              "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Domain/Domain.csproj"
+            "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Domain/Domain.csproj": {
+              "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Domain/Domain.csproj"
             },
-            "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Persistence/Persistence.csproj": {
-              "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Persistence/Persistence.csproj"
+            "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Persistence/Persistence.csproj": {
+              "projectPath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Persistence/Persistence.csproj"
             }
           }
         }

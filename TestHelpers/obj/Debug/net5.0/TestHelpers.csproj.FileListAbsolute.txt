@@ -1,0 +1,12 @@
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/bin/Debug/net5.0/TestHelpers.deps.json
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/bin/Debug/net5.0/TestHelpers.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/bin/Debug/net5.0/ref/TestHelpers.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/bin/Debug/net5.0/TestHelpers.pdb
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.csproj.AssemblyReference.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.AssemblyInfoInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.AssemblyInfo.cs
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.csproj.CoreCompileInputs.cache
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/ref/TestHelpers.dll
+/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/TestHelpers/obj/Debug/net5.0/TestHelpers.pdb

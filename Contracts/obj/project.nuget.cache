@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9V6WY4jCaaLJwLnhm2R2WmxQdy0M82RpGNvhtLMlXblaD5TB9RhnGDehNMdCpHfNleC0aNkpRSoa/rZ0iOV7Ig==",
+  "dgSpecHash": "zSbT3ZXwy987eEaezqtlDtwYHjIey9WDG04D/MdxTSyRNgYVvICkhltB8OUovgDWqy/HnCn3yTqQ6CsdqO7EBw==",
   "success": true,
-  "projectFilePath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lectures 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj",
+  "projectFilePath": "/Users/rokasdambrauskas/Desktop/BIT .NET COURSE/Lectures/Lecture 61. 2021-10-06/RecipeApp/Contracts/Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
